@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return;
   <>
-    <main>Commit 5 Henlo</main>
+    <main><h1>Title changed</h1></main>
     <div>Description removed</div>
   </>;
 }
